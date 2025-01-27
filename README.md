@@ -14,7 +14,7 @@
 
 پس از دریافت API Key و API ID، آن‌ها را در بخش لازم وارد کنید:
 
-
+``php
 $api_id = "API_ID_INPUT"; // API ID خود را اینجا وارد کنید
 $api_key = "API_KEY_INPUT"; // API Key خود را اینجا وارد کنید
 $api_url = "https://api.myip.ms"; // آدرس API
