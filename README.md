@@ -12,7 +12,7 @@
 
 ## تنظیمات API
 
-پس از دریافت API Key و API ID، آن‌ها را در فایل `config.php` وارد کنید:
+پس از دریافت API Key و API ID، آن‌ها را در بخش لازم وارد کنید:
 
 ```php
 $api_id = "API_ID_INPUT"; // API ID خود را اینجا وارد کنید
