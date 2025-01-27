@@ -1,6 +1,6 @@
 <?php
 session_start();
-// config.php
+
 $api_id = "Api ID";
 $api_key = "Api Key";
 $api_url = "https://api.myip.ms";
