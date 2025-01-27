@@ -1,10 +1,9 @@
 <?php
 session_start();
-
+// config.php
 $api_id = "Api ID";
 $api_key = "Api Key";
 $api_url = "https://api.myip.ms";
-
 
 // Generate CAPTCHA
 function generateCaptcha() {
@@ -219,8 +218,6 @@ $captcha = generateCaptcha();
                             <div class="btn-group" role="group">
                                 <button type="button" class="btn btn-primary tool-button" data-action="lookup">جستجوی کامل</button>
                                 <button type="button" class="btn btn-info tool-button" data-action="ping">Ping</button>
-                                <button type="button" class="btn btn-success tool-button" data-action="traceroute">Traceroute</button>
-                                <button type="button" class="btn btn-warning tool-button" data-action="whois">WHOIS</button>
                             </div>
                         </form>
                         
@@ -364,6 +361,3 @@ $(document).ready(function() {
    
 </body>
 </html>
-
-
-
