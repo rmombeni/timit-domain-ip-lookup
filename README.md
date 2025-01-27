@@ -30,7 +30,7 @@
 
 برای استفاده از قابلیت‌های پیشرفته این ابزار (مانند جستجوی اطلاعات IP)، نیاز به یک API Key از سایت [api.myip.ms](https://api.myip.ms) دارید. مراحل زیر را برای دریافت API Key دنبال کنید:
 
-1. به سایت [api.myip.ms](https://api.myip.ms) بروید.
+1. به سایت [api.myip.ms]([https://api.myip.ms](https://myip.ms/info/api/API_Dashboard.html)) بروید.
 2. در سایت ثبت‌نام کنید یا اگر حساب کاربری دارید، وارد شوید.
 3. پس از ورود، به بخش **API** بروید.
 4. یک API Key جدید ایجاد کنید.
